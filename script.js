@@ -58,5 +58,5 @@ function countdown1() {
 countdown1();
 countdown();
 
-
+setInterval(countdown1,1000);
 setInterval(countdown,1000);

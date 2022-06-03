@@ -53,3 +53,14 @@ h1{
     color: white;
 
 }
+
+
+.countdown-el1 {
+    text-align: center;
+}
+
+.countdown-el1 span {
+    font-size: 1.3rem;
+    color: white;
+
+}
